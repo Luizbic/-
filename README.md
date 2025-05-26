@@ -54,7 +54,7 @@
 ## Como Usar / Compilar
 
 ```bash
-git clone https://github.com/SEU_USUARIO/GBICA.git
+git clone https://github.com/Luizbic/GBICA-browser
 ```
 
 Abra com o Android Studio e compile direto em um dispositivo físico.
