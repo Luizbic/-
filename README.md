@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="logo.png" alt="GBICA Logo" width="200"/>
-</p>
+![file_00000000e92861f8ac45cda358c033e2](https://github.com/user-attachments/assets/f9a92b10-4fbe-4181-a8e7-63129e04fb76)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-blue?style=for-the-badge">
